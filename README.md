@@ -1,4 +1,8 @@
-# Advent Of Code Zig Template
+# PJ's Advent of Code 2020 in Zig
+
+With many thanks to the creator of this template as well as to kristoff_it, whose twitch channel I'm watching for help and hints as I muddle through this exercise
+
+## Advent Of Code Zig Template
 
 This repo provides a template for Advent of Code participants using Zig.  It contains a main file for each day, a build.zig file set up with targets for each day, and Visual Studio Code files for debugging.
 
