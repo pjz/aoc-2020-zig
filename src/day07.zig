@@ -3,7 +3,7 @@ const Allocator = std.mem.Allocator;
 const assert = std.debug.assert;
 const print = std.debug.print;
 
-const input = @embedFile("../in07.test");
+const input = @embedFile("../in07.txt");
 
 fn find_bag_def(bag: []const u8) []const u8 {
     var line_it = std.mem.tokenize(input, "\n");
